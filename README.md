@@ -61,6 +61,7 @@ Downloaded CSV: air\_quality\_Bengaluru\_2025-08-10.csv
 OpenWeatherMap Air Pollution API – for live AQI data
 
 📄 License
+
 This project is open-source and available under the MIT License.
 
 
